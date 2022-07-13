@@ -1,0 +1,3 @@
+0	 Finding Nemo 	 2003 	 101 	 Andrew Stanton	8/10	United States	Nemo 	 Family
+0	 La La Land 	 2016 	 160 	 Damien Chazelle	8.5/10	Los Angeles	Emma Stone 	 Family
+0	 Toy Story 	 1995 	 81 	 John Lasseter	9/10	United States	Buzz Lightyear 	 Family
