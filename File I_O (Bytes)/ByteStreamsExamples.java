@@ -4,10 +4,7 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
-/**
- *
- * @author aggelos
- */
+
 public class ByteStreamsExamples {
 
     /**
