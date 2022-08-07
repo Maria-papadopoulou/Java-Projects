@@ -3,11 +3,6 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 //import java.awt.Panel;
-
-/**
- *
- * @author aggelos
- */
 public class MyFrame extends JFrame{
     
     private JButton btn1, btn2, btn3, btn4, btn5;
