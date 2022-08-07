@@ -4,10 +4,6 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.border.EmptyBorder;
 
-/**
- *
- * @author Μαρία
- */
 public class StatisticsFrame extends JFrame
 {
     public StatisticsFrame()
