@@ -4,15 +4,8 @@ import java.io.FileNotFoundException;
 import java.util.Locale;
 import java.util.Scanner;
 
-/**
- *
- * @author aggelos
- */
 public class ScannerExamples {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
 
         //readInputRecordFromStd();
