@@ -8,10 +8,6 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
-/**
- *
- * @author aggelos
- */
 public class MyFrame extends JFrame{
     
     private JButton btn1, btn2, btn3, btn4, btn5, btn6,btn7,btn8,btn9,btn10;
